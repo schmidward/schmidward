@@ -40,5 +40,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ericdschmid/)
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=schmidward&show_icons=true&locale=en&layout=compact" alt="schmidward" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=schmidward&show_icons=true&locale=en&layout=compact" alt="schmidward" />
 </p>
