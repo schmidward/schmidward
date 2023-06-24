@@ -2,7 +2,7 @@
 <h3 align="center">A St. Louis-based full-stack developer & investigative journalist</h3>
 <br>
 
-+ :bulb: I'm currently learning: <b>Svelte</b> for a long overdue redesign of my [personal website](www.ericdschmid.com) ([see my coding progress here!](https://github.com/schmidward/website-redesign))
++ :bulb: I'm currently learning: <b>Svelte</b> with <b>Tailwindcss</b> for a long overdue redesign of my [personal website](www.ericdschmid.com) ([see my coding progress here!](https://github.com/schmidward/website-redesign))
 + :envelope: [Reach out via email](mailto:eric.d.schmid1@gmail.com?subject=Contact%20from%20Github)
 + :headphones: I currently work for St. Louis Public Radio as their [Economic Development Reporter](https://news.stlpublicradio.org/people/eric-schmid)
 + :sparkles: :trophy: I've won multiple awards for my original and revelatory investigative reporting that exposed [a 25+ year coverup of toxic groundwater contamination in the Springfield, Missouri area](https://news.stlpublicradio.org/health-science-environment/2022-10-19/missouri-knew-of-contamination-in-springfields-groundwater-decades-before-anyone-told-residents)
